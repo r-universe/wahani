@@ -1,10 +1,6 @@
 [
   {
-    "package": "modules",
-    "oncran": true
-  },
-  {
-    "package": "saeRobust",
+    "package": "aoos",
     "oncran": true
   },
   {
@@ -12,15 +8,19 @@
     "oncran": true
   },
   {
-    "package": "aoos",
-    "oncran": true
-  },
-  {
-    "package": "saeSim",
+    "package": "modules",
     "oncran": true
   },
   {
     "package": "REPLesentR",
+    "oncran": true
+  },
+  {
+    "package": "saeRobust",
+    "oncran": true
+  },
+  {
+    "package": "saeSim",
     "oncran": true
   }
 ]
