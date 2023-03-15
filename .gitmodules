@@ -3,24 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "aoos"]
-	path = aoos
-	url = https://github.com/wahani/aoos
-	shallow = true
-	registered = true
-[submodule "dat"]
-	path = dat
-	url = https://github.com/wahani/dat
-	shallow = true
-	registered = true
 [submodule "modules"]
 	path = modules
 	url = https://github.com/wahani/modules
-	shallow = true
-	registered = true
-[submodule "REPLesentR"]
-	path = REPLesentR
-	url = https://github.com/wahani/replesentr
 	shallow = true
 	registered = true
 [submodule "saeRobust"]
@@ -28,8 +13,23 @@
 	url = https://github.com/wahani/saerobust
 	shallow = true
 	registered = true
+[submodule "dat"]
+	path = dat
+	url = https://github.com/wahani/dat
+	shallow = true
+	registered = true
+[submodule "aoos"]
+	path = aoos
+	url = https://github.com/wahani/aoos
+	shallow = true
+	registered = true
 [submodule "saeSim"]
 	path = saeSim
 	url = https://github.com/wahani/saesim
+	shallow = true
+	registered = true
+[submodule "REPLesentR"]
+	path = REPLesentR
+	url = https://github.com/wahani/replesentr
 	shallow = true
 	registered = true

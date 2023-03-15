@@ -1,18 +1,6 @@
 [
   {
-    "package": "aoos",
-    "oncran": true
-  },
-  {
-    "package": "dat",
-    "oncran": true
-  },
-  {
     "package": "modules",
-    "oncran": true
-  },
-  {
-    "package": "REPLesentR",
     "oncran": true
   },
   {
@@ -20,7 +8,19 @@
     "oncran": true
   },
   {
+    "package": "dat",
+    "oncran": true
+  },
+  {
+    "package": "aoos",
+    "oncran": true
+  },
+  {
     "package": "saeSim",
+    "oncran": true
+  },
+  {
+    "package": "REPLesentR",
     "oncran": true
   }
 ]
