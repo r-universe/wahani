@@ -22,5 +22,9 @@
   {
     "package": "saeSim",
     "oncran": true
+  },
+  {
+    "package": "templates",
+    "oncran": true
   }
 ]

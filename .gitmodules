@@ -33,3 +33,8 @@
 	url = https://github.com/wahani/saesim
 	shallow = true
 	registered = true
+[submodule "templates"]
+	path = templates
+	url = https://github.com/wahani/templates
+	shallow = true
+	registered = true
