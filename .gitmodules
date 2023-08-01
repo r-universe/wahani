@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "REPLesentR"]
+	path = REPLesentR
+	url = https://github.com/wahani/replesentr
 [submodule "aoos"]
 	path = aoos
 	url = https://github.com/wahani/aoos
@@ -11,9 +14,6 @@
 [submodule "modules"]
 	path = modules
 	url = https://github.com/wahani/modules
-[submodule "REPLesentR"]
-	path = REPLesentR
-	url = https://github.com/wahani/replesentr
 [submodule "saeRobust"]
 	path = saeRobust
 	url = https://github.com/wahani/saerobust
